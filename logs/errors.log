@@ -1,0 +1,2 @@
+[2024-04-16T23:51:45.920992+00:00] errors.WARNING: E_WARNING: Undefined variable $teste {"code":2,"message":"Undefined variable $teste","file":"/Users/ediaimoborges/Projetos/AulasPHPModerno/vc-php/src/Views/home.php","line":2} []
+[2024-04-16T23:51:45.920992+00:00] errors.WARNING: E_WARNING: Undefined variable $teste {"code":2,"message":"Undefined variable $teste","file":"/Users/ediaimoborges/Projetos/AulasPHPModerno/vc-php/src/Views/home.php","line":2} []
